@@ -7,6 +7,8 @@ echo "<br><br>";
 
 $user2 = new Admin("Filip", "filip.duzevic@gmail.com", 3);
 echo $user2->getType();
-echo "<br><br>";
+
+
+
 ?>
 	
